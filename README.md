@@ -1,3 +1,4 @@
+
 # g403-wheell-solution
 solution for central wheell that doesnt work
 **How to Use Logitech G403 Side Buttons for Scrolling on Bazzite Linux (KDE Wayland)**
@@ -11,3 +12,5 @@ The guide includes the configuration, service setup, and troubleshooting steps.
 I hope this helps someone else keep using their mouse instead of replacing it!
 
 [Link to the full guide]
+
+[guia_bazzite_g403_xremap_ydotool.pdf](https://github.com/user-attachments/files/33887993/guia_bazzite_g403_xremap_ydotool.pdf)
